@@ -1,0 +1,21 @@
+{
+  "name": "@thepeaklab/eslint-config",
+  "version": "0.1.0",
+  "description": "the peak lab's eslint config",
+  "main": "index.js",
+  "keywords": [
+    "eslint-config",
+    "eslint",
+    "eslintconfig",
+    "thepeaklab"
+  ],
+  "author": "Christoph Weise-Onnen",
+  "license": "ISC",
+  "peerDependencies": {
+    "eslint": ">= 3"
+  },
+  "dependencies": {
+    "eslint-plugin-jest": "^22.17.0",
+    "eslint-config-airbnb-prettier": "^1.1.0"
+  }
+}
