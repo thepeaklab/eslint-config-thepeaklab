@@ -6,11 +6,15 @@
 
 #### npm
 
-    npm install @thepeaklab/eslint-config
+    npm install @thepeaklab/eslint-config --save-dev
 
 #### yarn
 
-    yarn add @thepeaklab/eslint-config
+    yarn add @thepeaklab/eslint-config --dev
+
+#### Install eslint
+
+    npm install eslint --save-dev
 
 ### Add package in your eslint config
 
