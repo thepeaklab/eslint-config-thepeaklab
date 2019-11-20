@@ -1,6 +1,6 @@
 {
   "name": "@thepeaklab/eslint-config",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "the peak lab's eslint config",
   "main": "index.js",
   "keywords": [
